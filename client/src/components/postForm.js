@@ -41,10 +41,10 @@ function PostForm() {
   return (
     <>
       <Form onSubmit={onSubmit}>
-        <h2>Create a Dank Post</h2>
+        <h2>Create your testing requirements</h2>
         <Form.Field>
           <Form.Input
-            placeholder="Start Posting"
+            placeholder="Start Listing"
             name="body"
             onChange={onChange}
             value={values.body}
