@@ -35,7 +35,7 @@ function Home(arg = {}) {
   return (
     <Grid columns={val} padded="horizontally" className="postCards">
       <Grid.Row className="title">
-        <h1>Testiify test Registration</h1>
+        <h1>Dank Posts</h1>
       </Grid.Row>
       <div className="PostForm">
         <Grid.Row>
